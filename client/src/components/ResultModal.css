@@ -1,0 +1,297 @@
+/* ResultModal.css */
+.result-modal {
+    background-color: var(--background-color);
+    border-radius: var(--border-radius);
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.8s ease, transform 0.8s ease;
+  }
+  
+  .result-modal.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+  .result-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+  }
+  
+  .result-header h2 {
+    font-size: 1.8rem;
+    margin: 0;
+    text-align: left;
+  }
+  
+  .highlight {
+    color: var(--primary-color);
+    position: relative;
+    display: inline-block;
+  }
+  
+  .highlight::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 30%;
+    background-color: rgba(0, 245, 192, 0.1);
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+    border-radius: 4px;
+  }
+  
+  .back-button {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background-color: transparent;
+    color: var(--text-secondary);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: var(--border-radius);
+    padding: 0.6rem 1rem;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all var(--transition-speed);
+  }
+  
+  .back-button:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+    color: var(--text-color);
+    border-color: rgba(255, 255, 255, 0.2);
+  }
+  
+  /* Description Card */
+  .description-card {
+    background-color: var(--card-bg-color);
+    border-radius: var(--border-radius);
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    border: 1px solid rgba(36, 99, 235, 0.2);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    display: flex;
+    gap: 1rem;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .description-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 100%;
+    background: linear-gradient(to bottom, #2463eb, #76a9fa);
+  }
+  
+  .card-icon {
+    color: #2463eb;
+    background: rgba(36, 99, 235, 0.1);
+    padding: 0.5rem;
+    border-radius: 50%;
+    height: fit-content;
+  }
+  
+  .description-content {
+    flex: 1;
+  }
+  
+  .description-content h3 {
+    color: #2463eb;
+    font-size: 1.2rem;
+    margin: 0 0 0.5rem 0;
+  }
+  
+  .description-content p {
+    margin: 0;
+    color: var(--text-secondary);
+    line-height: 1.6;
+  }
+  
+  /* Result Cards Grid */
+  .result-cards {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+  }
+  
+  .result-card {
+    background-color: var(--card-bg-color);
+    border-radius: var(--border-radius);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }
+  
+  .card-header {
+    padding: 1rem 1.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  }
+  
+  .card-header h3 {
+    margin: 0;
+    font-size: 1.1rem;
+    font-weight: 600;
+  }
+  
+  .card-content {
+    padding: 1.5rem;
+    flex: 1;
+  }
+  
+  .card-content ul {
+    margin: 0;
+    padding-left: 1.5rem;
+  }
+  
+  .card-content ul li {
+    margin-bottom: 0.5rem;
+    color: var(--text-secondary);
+  }
+  
+  .card-content ul li:last-child {
+    margin-bottom: 0;
+  }
+  
+  .no-data {
+    color: var(--text-secondary);
+    font-style: italic;
+    opacity: 0.7;
+  }
+  
+  /* Card-specific styles */
+  .precautions-card .card-icon {
+    color: #ef4444;
+    background: rgba(239, 68, 68, 0.1);
+  }
+  
+  .precautions-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 100%;
+    background: linear-gradient(to bottom, #ef4444, #fca5a5);
+  }
+  
+  .precautions-card .card-header h3 {
+    color: #ef4444;
+  }
+  
+  .diet-card .card-icon {
+    color: #22c55e;
+    background: rgba(34, 197, 94, 0.1);
+  }
+  
+  .diet-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 100%;
+    background: linear-gradient(to bottom, #22c55e, #86efac);
+  }
+  
+  .diet-card .card-header h3 {
+    color: #22c55e;
+  }
+  
+  .workout-card .card-icon {
+    color: #8b5cf6;
+    background: rgba(139, 92, 246, 0.1);
+  }
+  
+  .workout-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 100%;
+    background: linear-gradient(to bottom, #8b5cf6, #c4b5fd);
+  }
+  
+  .workout-card .card-header h3 {
+    color: #8b5cf6;
+  }
+  
+  .medication-card .card-icon {
+    color: #f59e0b;
+    background: rgba(245, 158, 11, 0.1);
+  }
+  
+  .medication-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 100%;
+    background: linear-gradient(to bottom, #f59e0b, #fcd34d);
+  }
+  
+  .medication-card .card-header h3 {
+    color: #f59e0b;
+  }
+  
+  /* Medication grid */
+  .medication-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.75rem;
+  }
+  
+  .medication-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background-color: rgba(245, 158, 11, 0.05);
+    border: 1px solid rgba(245, 158, 11, 0.1);
+    border-radius: 8px;
+    padding: 0.75rem;
+    color: var(--text-secondary);
+  }
+  
+  .medication-item svg {
+    color: #f59e0b;
+  }
+  
+  .medication-disclaimer {
+    margin-top: 1rem;
+    padding: 0 1.5rem 1rem;
+    color: var(--text-secondary);
+    font-size: 0.75rem;
+    font-style: italic;
+    opacity: 0.7;
+  }
+  
+  /* Responsive design */
+  @media screen and (max-width: 768px) {
+    .result-header {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 1rem;
+    }
+  
+    .result-cards {
+      grid-template-columns: 1fr;
+    }
+  
+    .medication-grid {
+      grid-template-columns: 1fr;
+    }
+  }
