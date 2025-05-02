@@ -49,16 +49,16 @@
 47,Drug Reaction,itching, skin_rash, burning_micturition, spotting_ urination
 48,Drug Reaction,itching, skin_rash, stomach_pain, spotting_ urination
 49,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-50,Peptic ulcer diseae, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
-51,Peptic ulcer diseae, vomiting, indigestion, abdominal_pain, passage_of_gases
-52,Peptic ulcer diseae, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases
-53,Peptic ulcer diseae, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
-54,Peptic ulcer diseae, vomiting, indigestion, abdominal_pain, passage_of_gases
-55,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, passage_of_gases
-56,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
-57,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
-58,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
-59,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+50,Peptic ulcer disease, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
+51,Peptic ulcer disease, vomiting, indigestion, abdominal_pain, passage_of_gases
+52,Peptic ulcer disease, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases
+53,Peptic ulcer disease, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
+54,Peptic ulcer disease, vomiting, indigestion, abdominal_pain, passage_of_gases
+55,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, passage_of_gases
+56,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
+57,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
+58,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
+59,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 60,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
 61,AIDS, patches_in_throat, high_fever, extra_marital_contacts,
 62,AIDS, muscle_wasting, high_fever, extra_marital_contacts,
@@ -69,16 +69,16 @@
 67,AIDS, patches_in_throat, high_fever, extra_marital_contacts,
 68,AIDS, muscle_wasting, high_fever, extra_marital_contacts,
 69,AIDS, muscle_wasting, patches_in_throat, high_fever,
-70,Diabetes , fatigue, weight_loss, restlessness, lethargy
-71,Diabetes , fatigue, weight_loss, restlessness, lethargy
-72,Diabetes , weight_loss, restlessness, lethargy, irregular_sugar_level
-73,Diabetes , fatigue, restlessness, lethargy, irregular_sugar_level
-74,Diabetes , fatigue, weight_loss, lethargy, irregular_sugar_level
-75,Diabetes , fatigue, weight_loss, restlessness, irregular_sugar_level
-76,Diabetes , fatigue, weight_loss, restlessness, lethargy
-77,Diabetes , fatigue, weight_loss, restlessness, lethargy
-78,Diabetes , fatigue, weight_loss, restlessness, lethargy
-79,Diabetes , fatigue, weight_loss, restlessness, lethargy
+70,Diabetes, fatigue, weight_loss, restlessness, lethargy
+71,Diabetes, fatigue, weight_loss, restlessness, lethargy
+72,Diabetes, weight_loss, restlessness, lethargy, irregular_sugar_level
+73,Diabetes, fatigue, restlessness, lethargy, irregular_sugar_level
+74,Diabetes, fatigue, weight_loss, lethargy, irregular_sugar_level
+75,Diabetes, fatigue, weight_loss, restlessness, irregular_sugar_level
+76,Diabetes, fatigue, weight_loss, restlessness, lethargy
+77,Diabetes, fatigue, weight_loss, restlessness, lethargy
+78,Diabetes, fatigue, weight_loss, restlessness, lethargy
+79,Diabetes, fatigue, weight_loss, restlessness, lethargy
 80,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 81,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 82,Gastroenteritis, sunken_eyes, dehydration, diarrhoea,
@@ -99,16 +99,16 @@
 97,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
 98,Bronchial Asthma, cough, high_fever, breathlessness, family_history
 99,Bronchial Asthma, fatigue, high_fever, breathlessness, family_history
-100,Hypertension , headache, chest_pain, dizziness, loss_of_balance
-101,Hypertension , chest_pain, dizziness, loss_of_balance, lack_of_concentration
-102,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
-103,Hypertension , headache, chest_pain, loss_of_balance, lack_of_concentration
-104,Hypertension , headache, chest_pain, dizziness, lack_of_concentration
-105,Hypertension , headache, chest_pain, dizziness, loss_of_balance
-106,Hypertension , headache, chest_pain, dizziness, loss_of_balance
-107,Hypertension , chest_pain, dizziness, loss_of_balance, lack_of_concentration
-108,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
-109,Hypertension , headache, chest_pain, loss_of_balance, lack_of_concentration
+100,Hypertension, headache, chest_pain, dizziness, loss_of_balance
+101,Hypertension, chest_pain, dizziness, loss_of_balance, lack_of_concentration
+102,Hypertension, headache, dizziness, loss_of_balance, lack_of_concentration
+103,Hypertension, headache, chest_pain, loss_of_balance, lack_of_concentration
+104,Hypertension, headache, chest_pain, dizziness, lack_of_concentration
+105,Hypertension, headache, chest_pain, dizziness, loss_of_balance
+106,Hypertension, headache, chest_pain, dizziness, loss_of_balance
+107,Hypertension, chest_pain, dizziness, loss_of_balance, lack_of_concentration
+108,Hypertension, headache, dizziness, loss_of_balance, lack_of_concentration
+109,Hypertension, headache, chest_pain, loss_of_balance, lack_of_concentration
 110,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 111,Migraine, indigestion, headache, blurred_and_distorted_vision, excessive_hunger
 112,Migraine, acidity, headache, blurred_and_distorted_vision, excessive_hunger
@@ -459,16 +459,16 @@
 457,Drug Reaction,itching, skin_rash, burning_micturition, spotting_ urination
 458,Drug Reaction,itching, skin_rash, stomach_pain, spotting_ urination
 459,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-460,Peptic ulcer diseae, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
-461,Peptic ulcer diseae, vomiting, indigestion, abdominal_pain, passage_of_gases
-462,Peptic ulcer diseae, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases
-463,Peptic ulcer diseae, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
-464,Peptic ulcer diseae, vomiting, indigestion, abdominal_pain, passage_of_gases
-465,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, passage_of_gases
-466,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
-467,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
-468,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
-469,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+460,Peptic ulcer disease, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
+461,Peptic ulcer disease, vomiting, indigestion, abdominal_pain, passage_of_gases
+462,Peptic ulcer disease, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases
+463,Peptic ulcer disease, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
+464,Peptic ulcer disease, vomiting, indigestion, abdominal_pain, passage_of_gases
+465,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, passage_of_gases
+466,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
+467,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
+468,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
+469,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 470,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
 471,AIDS, patches_in_throat, high_fever, extra_marital_contacts,
 472,AIDS, muscle_wasting, high_fever, extra_marital_contacts,
@@ -479,16 +479,16 @@
 477,AIDS, patches_in_throat, high_fever, extra_marital_contacts,
 478,AIDS, muscle_wasting, high_fever, extra_marital_contacts,
 479,AIDS, muscle_wasting, patches_in_throat, high_fever,
-480,Diabetes , fatigue, weight_loss, restlessness, lethargy
-481,Diabetes , fatigue, weight_loss, restlessness, lethargy
-482,Diabetes , weight_loss, restlessness, lethargy, irregular_sugar_level
-483,Diabetes , fatigue, restlessness, lethargy, irregular_sugar_level
-484,Diabetes , fatigue, weight_loss, lethargy, irregular_sugar_level
-485,Diabetes , fatigue, weight_loss, restlessness, irregular_sugar_level
-486,Diabetes , fatigue, weight_loss, restlessness, lethargy
-487,Diabetes , fatigue, weight_loss, restlessness, lethargy
-488,Diabetes , fatigue, weight_loss, restlessness, lethargy
-489,Diabetes , fatigue, weight_loss, restlessness, lethargy
+480,Diabetes, fatigue, weight_loss, restlessness, lethargy
+481,Diabetes, fatigue, weight_loss, restlessness, lethargy
+482,Diabetes, weight_loss, restlessness, lethargy, irregular_sugar_level
+483,Diabetes, fatigue, restlessness, lethargy, irregular_sugar_level
+484,Diabetes, fatigue, weight_loss, lethargy, irregular_sugar_level
+485,Diabetes, fatigue, weight_loss, restlessness, irregular_sugar_level
+486,Diabetes, fatigue, weight_loss, restlessness, lethargy
+487,Diabetes, fatigue, weight_loss, restlessness, lethargy
+488,Diabetes, fatigue, weight_loss, restlessness, lethargy
+489,Diabetes, fatigue, weight_loss, restlessness, lethargy
 490,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 491,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 492,Gastroenteritis, sunken_eyes, dehydration, diarrhoea,
@@ -509,16 +509,16 @@
 507,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
 508,Bronchial Asthma, cough, high_fever, breathlessness, family_history
 509,Bronchial Asthma, fatigue, high_fever, breathlessness, family_history
-510,Hypertension , headache, chest_pain, dizziness, loss_of_balance
-511,Hypertension , chest_pain, dizziness, loss_of_balance, lack_of_concentration
-512,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
-513,Hypertension , headache, chest_pain, loss_of_balance, lack_of_concentration
-514,Hypertension , headache, chest_pain, dizziness, lack_of_concentration
-515,Hypertension , headache, chest_pain, dizziness, loss_of_balance
-516,Hypertension , headache, chest_pain, dizziness, loss_of_balance
-517,Hypertension , chest_pain, dizziness, loss_of_balance, lack_of_concentration
-518,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
-519,Hypertension , headache, chest_pain, loss_of_balance, lack_of_concentration
+510,Hypertension, headache, chest_pain, dizziness, loss_of_balance
+511,Hypertension, chest_pain, dizziness, loss_of_balance, lack_of_concentration
+512,Hypertension, headache, dizziness, loss_of_balance, lack_of_concentration
+513,Hypertension, headache, chest_pain, loss_of_balance, lack_of_concentration
+514,Hypertension, headache, chest_pain, dizziness, lack_of_concentration
+515,Hypertension, headache, chest_pain, dizziness, loss_of_balance
+516,Hypertension, headache, chest_pain, dizziness, loss_of_balance
+517,Hypertension, chest_pain, dizziness, loss_of_balance, lack_of_concentration
+518,Hypertension, headache, dizziness, loss_of_balance, lack_of_concentration
+519,Hypertension, headache, chest_pain, loss_of_balance, lack_of_concentration
 520,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 521,Migraine, indigestion, headache, blurred_and_distorted_vision, excessive_hunger
 522,Migraine, acidity, headache, blurred_and_distorted_vision, excessive_hunger
@@ -869,16 +869,16 @@
 867,Drug Reaction,itching, skin_rash, burning_micturition, spotting_ urination
 868,Drug Reaction,itching, skin_rash, stomach_pain, spotting_ urination
 869,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-870,Peptic ulcer diseae, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
-871,Peptic ulcer diseae, vomiting, indigestion, abdominal_pain, passage_of_gases
-872,Peptic ulcer diseae, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases
-873,Peptic ulcer diseae, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
-874,Peptic ulcer diseae, vomiting, indigestion, abdominal_pain, passage_of_gases
-875,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, passage_of_gases
-876,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
-877,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
-878,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
-879,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+870,Peptic ulcer disease, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
+871,Peptic ulcer disease, vomiting, indigestion, abdominal_pain, passage_of_gases
+872,Peptic ulcer disease, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases
+873,Peptic ulcer disease, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
+874,Peptic ulcer disease, vomiting, indigestion, abdominal_pain, passage_of_gases
+875,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, passage_of_gases
+876,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
+877,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
+878,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
+879,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 880,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
 881,AIDS, patches_in_throat, high_fever, extra_marital_contacts,
 882,AIDS, muscle_wasting, high_fever, extra_marital_contacts,
@@ -889,16 +889,16 @@
 887,AIDS, patches_in_throat, high_fever, extra_marital_contacts,
 888,AIDS, muscle_wasting, high_fever, extra_marital_contacts,
 889,AIDS, muscle_wasting, patches_in_throat, high_fever,
-890,Diabetes , fatigue, weight_loss, restlessness, lethargy
-891,Diabetes , fatigue, weight_loss, restlessness, lethargy
-892,Diabetes , weight_loss, restlessness, lethargy, irregular_sugar_level
-893,Diabetes , fatigue, restlessness, lethargy, irregular_sugar_level
-894,Diabetes , fatigue, weight_loss, lethargy, irregular_sugar_level
-895,Diabetes , fatigue, weight_loss, restlessness, irregular_sugar_level
-896,Diabetes , fatigue, weight_loss, restlessness, lethargy
-897,Diabetes , fatigue, weight_loss, restlessness, lethargy
-898,Diabetes , fatigue, weight_loss, restlessness, lethargy
-899,Diabetes , fatigue, weight_loss, restlessness, lethargy
+890,Diabetes, fatigue, weight_loss, restlessness, lethargy
+891,Diabetes, fatigue, weight_loss, restlessness, lethargy
+892,Diabetes, weight_loss, restlessness, lethargy, irregular_sugar_level
+893,Diabetes, fatigue, restlessness, lethargy, irregular_sugar_level
+894,Diabetes, fatigue, weight_loss, lethargy, irregular_sugar_level
+895,Diabetes, fatigue, weight_loss, restlessness, irregular_sugar_level
+896,Diabetes, fatigue, weight_loss, restlessness, lethargy
+897,Diabetes, fatigue, weight_loss, restlessness, lethargy
+898,Diabetes, fatigue, weight_loss, restlessness, lethargy
+899,Diabetes, fatigue, weight_loss, restlessness, lethargy
 900,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 901,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 902,Gastroenteritis, sunken_eyes, dehydration, diarrhoea,
@@ -919,16 +919,16 @@
 917,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
 918,Bronchial Asthma, cough, high_fever, breathlessness, family_history
 919,Bronchial Asthma, fatigue, high_fever, breathlessness, family_history
-920,Hypertension , headache, chest_pain, dizziness, loss_of_balance
-921,Hypertension , chest_pain, dizziness, loss_of_balance, lack_of_concentration
-922,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
-923,Hypertension , headache, chest_pain, loss_of_balance, lack_of_concentration
-924,Hypertension , headache, chest_pain, dizziness, lack_of_concentration
-925,Hypertension , headache, chest_pain, dizziness, loss_of_balance
-926,Hypertension , headache, chest_pain, dizziness, loss_of_balance
-927,Hypertension , chest_pain, dizziness, loss_of_balance, lack_of_concentration
-928,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
-929,Hypertension , headache, chest_pain, loss_of_balance, lack_of_concentration
+920,Hypertension, headache, chest_pain, dizziness, loss_of_balance
+921,Hypertension, chest_pain, dizziness, loss_of_balance, lack_of_concentration
+922,Hypertension, headache, dizziness, loss_of_balance, lack_of_concentration
+923,Hypertension, headache, chest_pain, loss_of_balance, lack_of_concentration
+924,Hypertension, headache, chest_pain, dizziness, lack_of_concentration
+925,Hypertension, headache, chest_pain, dizziness, loss_of_balance
+926,Hypertension, headache, chest_pain, dizziness, loss_of_balance
+927,Hypertension, chest_pain, dizziness, loss_of_balance, lack_of_concentration
+928,Hypertension, headache, dizziness, loss_of_balance, lack_of_concentration
+929,Hypertension, headache, chest_pain, loss_of_balance, lack_of_concentration
 930,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 931,Migraine, indigestion, headache, blurred_and_distorted_vision, excessive_hunger
 932,Migraine, acidity, headache, blurred_and_distorted_vision, excessive_hunger
@@ -1279,16 +1279,16 @@
 1277,Drug Reaction,itching, skin_rash, burning_micturition, spotting_ urination
 1278,Drug Reaction,itching, skin_rash, stomach_pain, spotting_ urination
 1279,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-1280,Peptic ulcer diseae, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
-1281,Peptic ulcer diseae, vomiting, indigestion, abdominal_pain, passage_of_gases
-1282,Peptic ulcer diseae, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases
-1283,Peptic ulcer diseae, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
-1284,Peptic ulcer diseae, vomiting, indigestion, abdominal_pain, passage_of_gases
-1285,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, passage_of_gases
-1286,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
-1287,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
-1288,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
-1289,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+1280,Peptic ulcer disease, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
+1281,Peptic ulcer disease, vomiting, indigestion, abdominal_pain, passage_of_gases
+1282,Peptic ulcer disease, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases
+1283,Peptic ulcer disease, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
+1284,Peptic ulcer disease, vomiting, indigestion, abdominal_pain, passage_of_gases
+1285,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, passage_of_gases
+1286,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
+1287,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
+1288,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
+1289,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 1290,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
 1291,AIDS, patches_in_throat, high_fever, extra_marital_contacts,
 1292,AIDS, muscle_wasting, high_fever, extra_marital_contacts,
@@ -1299,16 +1299,16 @@
 1297,AIDS, patches_in_throat, high_fever, extra_marital_contacts,
 1298,AIDS, muscle_wasting, high_fever, extra_marital_contacts,
 1299,AIDS, muscle_wasting, patches_in_throat, high_fever,
-1300,Diabetes , fatigue, weight_loss, restlessness, lethargy
-1301,Diabetes , fatigue, weight_loss, restlessness, lethargy
-1302,Diabetes , weight_loss, restlessness, lethargy, irregular_sugar_level
-1303,Diabetes , fatigue, restlessness, lethargy, irregular_sugar_level
-1304,Diabetes , fatigue, weight_loss, lethargy, irregular_sugar_level
-1305,Diabetes , fatigue, weight_loss, restlessness, irregular_sugar_level
-1306,Diabetes , fatigue, weight_loss, restlessness, lethargy
-1307,Diabetes , fatigue, weight_loss, restlessness, lethargy
-1308,Diabetes , fatigue, weight_loss, restlessness, lethargy
-1309,Diabetes , fatigue, weight_loss, restlessness, lethargy
+1300,Diabetes, fatigue, weight_loss, restlessness, lethargy
+1301,Diabetes, fatigue, weight_loss, restlessness, lethargy
+1302,Diabetes, weight_loss, restlessness, lethargy, irregular_sugar_level
+1303,Diabetes, fatigue, restlessness, lethargy, irregular_sugar_level
+1304,Diabetes, fatigue, weight_loss, lethargy, irregular_sugar_level
+1305,Diabetes, fatigue, weight_loss, restlessness, irregular_sugar_level
+1306,Diabetes, fatigue, weight_loss, restlessness, lethargy
+1307,Diabetes, fatigue, weight_loss, restlessness, lethargy
+1308,Diabetes, fatigue, weight_loss, restlessness, lethargy
+1309,Diabetes, fatigue, weight_loss, restlessness, lethargy
 1310,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 1311,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 1312,Gastroenteritis, sunken_eyes, dehydration, diarrhoea,
@@ -1329,16 +1329,16 @@
 1327,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
 1328,Bronchial Asthma, cough, high_fever, breathlessness, family_history
 1329,Bronchial Asthma, fatigue, high_fever, breathlessness, family_history
-1330,Hypertension , headache, chest_pain, dizziness, loss_of_balance
-1331,Hypertension , chest_pain, dizziness, loss_of_balance, lack_of_concentration
-1332,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
-1333,Hypertension , headache, chest_pain, loss_of_balance, lack_of_concentration
-1334,Hypertension , headache, chest_pain, dizziness, lack_of_concentration
-1335,Hypertension , headache, chest_pain, dizziness, loss_of_balance
-1336,Hypertension , headache, chest_pain, dizziness, loss_of_balance
-1337,Hypertension , chest_pain, dizziness, loss_of_balance, lack_of_concentration
-1338,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
-1339,Hypertension , headache, chest_pain, loss_of_balance, lack_of_concentration
+1330,Hypertension, headache, chest_pain, dizziness, loss_of_balance
+1331,Hypertension, chest_pain, dizziness, loss_of_balance, lack_of_concentration
+1332,Hypertension, headache, dizziness, loss_of_balance, lack_of_concentration
+1333,Hypertension, headache, chest_pain, loss_of_balance, lack_of_concentration
+1334,Hypertension, headache, chest_pain, dizziness, lack_of_concentration
+1335,Hypertension, headache, chest_pain, dizziness, loss_of_balance
+1336,Hypertension, headache, chest_pain, dizziness, loss_of_balance
+1337,Hypertension, chest_pain, dizziness, loss_of_balance, lack_of_concentration
+1338,Hypertension, headache, dizziness, loss_of_balance, lack_of_concentration
+1339,Hypertension, headache, chest_pain, loss_of_balance, lack_of_concentration
 1340,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 1341,Migraine, indigestion, headache, blurred_and_distorted_vision, excessive_hunger
 1342,Migraine, acidity, headache, blurred_and_distorted_vision, excessive_hunger
@@ -1689,16 +1689,16 @@
 1687,Drug Reaction,itching, skin_rash, burning_micturition, spotting_ urination
 1688,Drug Reaction,itching, skin_rash, stomach_pain, spotting_ urination
 1689,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-1690,Peptic ulcer diseae, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
-1691,Peptic ulcer diseae, vomiting, indigestion, abdominal_pain, passage_of_gases
-1692,Peptic ulcer diseae, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases
-1693,Peptic ulcer diseae, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
-1694,Peptic ulcer diseae, vomiting, indigestion, abdominal_pain, passage_of_gases
-1695,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, passage_of_gases
-1696,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
-1697,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
-1698,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
-1699,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+1690,Peptic ulcer disease, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
+1691,Peptic ulcer disease, vomiting, indigestion, abdominal_pain, passage_of_gases
+1692,Peptic ulcer disease, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases
+1693,Peptic ulcer disease, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
+1694,Peptic ulcer disease, vomiting, indigestion, abdominal_pain, passage_of_gases
+1695,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, passage_of_gases
+1696,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
+1697,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
+1698,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
+1699,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 1700,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
 1701,AIDS, patches_in_throat, high_fever, extra_marital_contacts,
 1702,AIDS, muscle_wasting, high_fever, extra_marital_contacts,
@@ -1709,16 +1709,16 @@
 1707,AIDS, patches_in_throat, high_fever, extra_marital_contacts,
 1708,AIDS, muscle_wasting, high_fever, extra_marital_contacts,
 1709,AIDS, muscle_wasting, patches_in_throat, high_fever,
-1710,Diabetes , fatigue, weight_loss, restlessness, lethargy
-1711,Diabetes , fatigue, weight_loss, restlessness, lethargy
-1712,Diabetes , weight_loss, restlessness, lethargy, irregular_sugar_level
-1713,Diabetes , fatigue, restlessness, lethargy, irregular_sugar_level
-1714,Diabetes , fatigue, weight_loss, lethargy, irregular_sugar_level
-1715,Diabetes , fatigue, weight_loss, restlessness, irregular_sugar_level
-1716,Diabetes , fatigue, weight_loss, restlessness, lethargy
-1717,Diabetes , fatigue, weight_loss, restlessness, lethargy
-1718,Diabetes , fatigue, weight_loss, restlessness, lethargy
-1719,Diabetes , fatigue, weight_loss, restlessness, lethargy
+1710,Diabetes, fatigue, weight_loss, restlessness, lethargy
+1711,Diabetes, fatigue, weight_loss, restlessness, lethargy
+1712,Diabetes, weight_loss, restlessness, lethargy, irregular_sugar_level
+1713,Diabetes, fatigue, restlessness, lethargy, irregular_sugar_level
+1714,Diabetes, fatigue, weight_loss, lethargy, irregular_sugar_level
+1715,Diabetes, fatigue, weight_loss, restlessness, irregular_sugar_level
+1716,Diabetes, fatigue, weight_loss, restlessness, lethargy
+1717,Diabetes, fatigue, weight_loss, restlessness, lethargy
+1718,Diabetes, fatigue, weight_loss, restlessness, lethargy
+1719,Diabetes, fatigue, weight_loss, restlessness, lethargy
 1720,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 1721,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 1722,Gastroenteritis, sunken_eyes, dehydration, diarrhoea,
@@ -1739,16 +1739,16 @@
 1737,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
 1738,Bronchial Asthma, cough, high_fever, breathlessness, family_history
 1739,Bronchial Asthma, fatigue, high_fever, breathlessness, family_history
-1740,Hypertension , headache, chest_pain, dizziness, loss_of_balance
-1741,Hypertension , chest_pain, dizziness, loss_of_balance, lack_of_concentration
-1742,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
-1743,Hypertension , headache, chest_pain, loss_of_balance, lack_of_concentration
-1744,Hypertension , headache, chest_pain, dizziness, lack_of_concentration
-1745,Hypertension , headache, chest_pain, dizziness, loss_of_balance
-1746,Hypertension , headache, chest_pain, dizziness, loss_of_balance
-1747,Hypertension , chest_pain, dizziness, loss_of_balance, lack_of_concentration
-1748,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
-1749,Hypertension , headache, chest_pain, loss_of_balance, lack_of_concentration
+1740,Hypertension, headache, chest_pain, dizziness, loss_of_balance
+1741,Hypertension, chest_pain, dizziness, loss_of_balance, lack_of_concentration
+1742,Hypertension, headache, dizziness, loss_of_balance, lack_of_concentration
+1743,Hypertension, headache, chest_pain, loss_of_balance, lack_of_concentration
+1744,Hypertension, headache, chest_pain, dizziness, lack_of_concentration
+1745,Hypertension, headache, chest_pain, dizziness, loss_of_balance
+1746,Hypertension, headache, chest_pain, dizziness, loss_of_balance
+1747,Hypertension, chest_pain, dizziness, loss_of_balance, lack_of_concentration
+1748,Hypertension, headache, dizziness, loss_of_balance, lack_of_concentration
+1749,Hypertension, headache, chest_pain, loss_of_balance, lack_of_concentration
 1750,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 1751,Migraine, indigestion, headache, blurred_and_distorted_vision, excessive_hunger
 1752,Migraine, acidity, headache, blurred_and_distorted_vision, excessive_hunger
@@ -2099,16 +2099,16 @@
 2097,Drug Reaction,itching, skin_rash, burning_micturition, spotting_ urination
 2098,Drug Reaction,itching, skin_rash, stomach_pain, spotting_ urination
 2099,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-2100,Peptic ulcer diseae, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
-2101,Peptic ulcer diseae, vomiting, indigestion, abdominal_pain, passage_of_gases
-2102,Peptic ulcer diseae, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases
-2103,Peptic ulcer diseae, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
-2104,Peptic ulcer diseae, vomiting, indigestion, abdominal_pain, passage_of_gases
-2105,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, passage_of_gases
-2106,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
-2107,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
-2108,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
-2109,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+2100,Peptic ulcer disease, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
+2101,Peptic ulcer disease, vomiting, indigestion, abdominal_pain, passage_of_gases
+2102,Peptic ulcer disease, indigestion, loss_of_appetite, abdominal_pain, passage_of_gases
+2103,Peptic ulcer disease, vomiting, loss_of_appetite, abdominal_pain, passage_of_gases
+2104,Peptic ulcer disease, vomiting, indigestion, abdominal_pain, passage_of_gases
+2105,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, passage_of_gases
+2106,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
+2107,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
+2108,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
+2109,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 2110,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
 2111,AIDS, patches_in_throat, high_fever, extra_marital_contacts,
 2112,AIDS, muscle_wasting, high_fever, extra_marital_contacts,
@@ -2119,16 +2119,16 @@
 2117,AIDS, patches_in_throat, high_fever, extra_marital_contacts,
 2118,AIDS, muscle_wasting, high_fever, extra_marital_contacts,
 2119,AIDS, muscle_wasting, patches_in_throat, high_fever,
-2120,Diabetes , fatigue, weight_loss, restlessness, lethargy
-2121,Diabetes , fatigue, weight_loss, restlessness, lethargy
-2122,Diabetes , weight_loss, restlessness, lethargy, irregular_sugar_level
-2123,Diabetes , fatigue, restlessness, lethargy, irregular_sugar_level
-2124,Diabetes , fatigue, weight_loss, lethargy, irregular_sugar_level
-2125,Diabetes , fatigue, weight_loss, restlessness, irregular_sugar_level
-2126,Diabetes , fatigue, weight_loss, restlessness, lethargy
-2127,Diabetes , fatigue, weight_loss, restlessness, lethargy
-2128,Diabetes , fatigue, weight_loss, restlessness, lethargy
-2129,Diabetes , fatigue, weight_loss, restlessness, lethargy
+2120,Diabetes, fatigue, weight_loss, restlessness, lethargy
+2121,Diabetes, fatigue, weight_loss, restlessness, lethargy
+2122,Diabetes, weight_loss, restlessness, lethargy, irregular_sugar_level
+2123,Diabetes, fatigue, restlessness, lethargy, irregular_sugar_level
+2124,Diabetes, fatigue, weight_loss, lethargy, irregular_sugar_level
+2125,Diabetes, fatigue, weight_loss, restlessness, irregular_sugar_level
+2126,Diabetes, fatigue, weight_loss, restlessness, lethargy
+2127,Diabetes, fatigue, weight_loss, restlessness, lethargy
+2128,Diabetes, fatigue, weight_loss, restlessness, lethargy
+2129,Diabetes, fatigue, weight_loss, restlessness, lethargy
 2130,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 2131,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 2132,Gastroenteritis, sunken_eyes, dehydration, diarrhoea,
@@ -2149,16 +2149,16 @@
 2147,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
 2148,Bronchial Asthma, cough, high_fever, breathlessness, family_history
 2149,Bronchial Asthma, fatigue, high_fever, breathlessness, family_history
-2150,Hypertension , headache, chest_pain, dizziness, loss_of_balance
-2151,Hypertension , chest_pain, dizziness, loss_of_balance, lack_of_concentration
-2152,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
-2153,Hypertension , headache, chest_pain, loss_of_balance, lack_of_concentration
-2154,Hypertension , headache, chest_pain, dizziness, lack_of_concentration
-2155,Hypertension , headache, chest_pain, dizziness, loss_of_balance
-2156,Hypertension , headache, chest_pain, dizziness, loss_of_balance
-2157,Hypertension , chest_pain, dizziness, loss_of_balance, lack_of_concentration
-2158,Hypertension , headache, dizziness, loss_of_balance, lack_of_concentration
-2159,Hypertension , headache, chest_pain, loss_of_balance, lack_of_concentration
+2150,Hypertension, headache, chest_pain, dizziness, loss_of_balance
+2151,Hypertension, chest_pain, dizziness, loss_of_balance, lack_of_concentration
+2152,Hypertension, headache, dizziness, loss_of_balance, lack_of_concentration
+2153,Hypertension, headache, chest_pain, loss_of_balance, lack_of_concentration
+2154,Hypertension, headache, chest_pain, dizziness, lack_of_concentration
+2155,Hypertension, headache, chest_pain, dizziness, loss_of_balance
+2156,Hypertension, headache, chest_pain, dizziness, loss_of_balance
+2157,Hypertension, chest_pain, dizziness, loss_of_balance, lack_of_concentration
+2158,Hypertension, headache, dizziness, loss_of_balance, lack_of_concentration
+2159,Hypertension, headache, chest_pain, loss_of_balance, lack_of_concentration
 2160,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 2161,Migraine, indigestion, headache, blurred_and_distorted_vision, excessive_hunger
 2162,Migraine, acidity, headache, blurred_and_distorted_vision, excessive_hunger
@@ -2464,12 +2464,12 @@
 2462,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 2463,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 2464,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-2465,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+2465,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 2466,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-2467,Diabetes , fatigue, weight_loss, restlessness, lethargy
+2467,Diabetes, fatigue, weight_loss, restlessness, lethargy
 2468,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 2469,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-2470,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+2470,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 2471,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 2472,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 2473,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -2505,12 +2505,12 @@
 2503,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 2504,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 2505,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-2506,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+2506,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 2507,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-2508,Diabetes , fatigue, weight_loss, restlessness, lethargy
+2508,Diabetes, fatigue, weight_loss, restlessness, lethargy
 2509,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 2510,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-2511,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+2511,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 2512,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 2513,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 2514,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -2546,12 +2546,12 @@
 2544,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 2545,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 2546,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-2547,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+2547,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 2548,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-2549,Diabetes , fatigue, weight_loss, restlessness, lethargy
+2549,Diabetes, fatigue, weight_loss, restlessness, lethargy
 2550,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 2551,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-2552,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+2552,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 2553,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 2554,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 2555,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -2587,12 +2587,12 @@
 2585,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 2586,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 2587,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-2588,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+2588,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 2589,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-2590,Diabetes , fatigue, weight_loss, restlessness, lethargy
+2590,Diabetes, fatigue, weight_loss, restlessness, lethargy
 2591,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 2592,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-2593,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+2593,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 2594,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 2595,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 2596,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -2628,12 +2628,12 @@
 2626,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 2627,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 2628,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-2629,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+2629,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 2630,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-2631,Diabetes , fatigue, weight_loss, restlessness, lethargy
+2631,Diabetes, fatigue, weight_loss, restlessness, lethargy
 2632,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 2633,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-2634,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+2634,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 2635,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 2636,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 2637,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -2669,12 +2669,12 @@
 2667,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 2668,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 2669,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-2670,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+2670,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 2671,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-2672,Diabetes , fatigue, weight_loss, restlessness, lethargy
+2672,Diabetes, fatigue, weight_loss, restlessness, lethargy
 2673,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 2674,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-2675,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+2675,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 2676,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 2677,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 2678,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -2710,12 +2710,12 @@
 2708,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 2709,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 2710,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-2711,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+2711,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 2712,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-2713,Diabetes , fatigue, weight_loss, restlessness, lethargy
+2713,Diabetes, fatigue, weight_loss, restlessness, lethargy
 2714,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 2715,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-2716,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+2716,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 2717,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 2718,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 2719,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -2751,12 +2751,12 @@
 2749,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 2750,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 2751,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-2752,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+2752,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 2753,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-2754,Diabetes , fatigue, weight_loss, restlessness, lethargy
+2754,Diabetes, fatigue, weight_loss, restlessness, lethargy
 2755,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 2756,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-2757,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+2757,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 2758,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 2759,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 2760,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -2792,12 +2792,12 @@
 2790,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 2791,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 2792,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-2793,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+2793,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 2794,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-2795,Diabetes , fatigue, weight_loss, restlessness, lethargy
+2795,Diabetes, fatigue, weight_loss, restlessness, lethargy
 2796,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 2797,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-2798,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+2798,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 2799,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 2800,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 2801,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -2833,12 +2833,12 @@
 2831,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 2832,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 2833,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-2834,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+2834,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 2835,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-2836,Diabetes , fatigue, weight_loss, restlessness, lethargy
+2836,Diabetes, fatigue, weight_loss, restlessness, lethargy
 2837,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 2838,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-2839,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+2839,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 2840,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 2841,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 2842,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -2874,12 +2874,12 @@
 2872,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 2873,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 2874,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-2875,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+2875,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 2876,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-2877,Diabetes , fatigue, weight_loss, restlessness, lethargy
+2877,Diabetes, fatigue, weight_loss, restlessness, lethargy
 2878,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 2879,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-2880,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+2880,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 2881,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 2882,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 2883,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -2915,12 +2915,12 @@
 2913,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 2914,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 2915,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-2916,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+2916,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 2917,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-2918,Diabetes , fatigue, weight_loss, restlessness, lethargy
+2918,Diabetes, fatigue, weight_loss, restlessness, lethargy
 2919,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 2920,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-2921,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+2921,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 2922,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 2923,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 2924,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -2956,12 +2956,12 @@
 2954,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 2955,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 2956,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-2957,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+2957,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 2958,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-2959,Diabetes , fatigue, weight_loss, restlessness, lethargy
+2959,Diabetes, fatigue, weight_loss, restlessness, lethargy
 2960,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 2961,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-2962,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+2962,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 2963,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 2964,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 2965,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -2997,12 +2997,12 @@
 2995,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 2996,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 2997,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-2998,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+2998,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 2999,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-3000,Diabetes , fatigue, weight_loss, restlessness, lethargy
+3000,Diabetes, fatigue, weight_loss, restlessness, lethargy
 3001,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 3002,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-3003,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+3003,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 3004,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 3005,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 3006,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -3038,12 +3038,12 @@
 3036,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 3037,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 3038,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-3039,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+3039,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 3040,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-3041,Diabetes , fatigue, weight_loss, restlessness, lethargy
+3041,Diabetes, fatigue, weight_loss, restlessness, lethargy
 3042,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 3043,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-3044,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+3044,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 3045,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 3046,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 3047,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -3079,12 +3079,12 @@
 3077,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 3078,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 3079,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-3080,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+3080,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 3081,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-3082,Diabetes , fatigue, weight_loss, restlessness, lethargy
+3082,Diabetes, fatigue, weight_loss, restlessness, lethargy
 3083,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 3084,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-3085,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+3085,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 3086,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 3087,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 3088,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -3120,12 +3120,12 @@
 3118,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 3119,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 3120,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-3121,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+3121,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 3122,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-3123,Diabetes , fatigue, weight_loss, restlessness, lethargy
+3123,Diabetes, fatigue, weight_loss, restlessness, lethargy
 3124,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 3125,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-3126,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+3126,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 3127,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 3128,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 3129,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -3161,12 +3161,12 @@
 3159,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 3160,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 3161,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-3162,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+3162,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 3163,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-3164,Diabetes , fatigue, weight_loss, restlessness, lethargy
+3164,Diabetes, fatigue, weight_loss, restlessness, lethargy
 3165,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 3166,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-3167,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+3167,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 3168,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 3169,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 3170,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -3202,12 +3202,12 @@
 3200,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 3201,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 3202,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-3203,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+3203,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 3204,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-3205,Diabetes , fatigue, weight_loss, restlessness, lethargy
+3205,Diabetes, fatigue, weight_loss, restlessness, lethargy
 3206,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 3207,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-3208,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+3208,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 3209,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 3210,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 3211,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -3243,12 +3243,12 @@
 3241,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 3242,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 3243,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-3244,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+3244,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 3245,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-3246,Diabetes , fatigue, weight_loss, restlessness, lethargy
+3246,Diabetes, fatigue, weight_loss, restlessness, lethargy
 3247,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 3248,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-3249,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+3249,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 3250,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 3251,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 3252,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -3284,12 +3284,12 @@
 3282,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 3283,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 3284,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-3285,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+3285,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 3286,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-3287,Diabetes , fatigue, weight_loss, restlessness, lethargy
+3287,Diabetes, fatigue, weight_loss, restlessness, lethargy
 3288,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 3289,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-3290,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+3290,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 3291,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 3292,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 3293,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -3325,12 +3325,12 @@
 3323,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 3324,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 3325,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-3326,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+3326,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 3327,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-3328,Diabetes , fatigue, weight_loss, restlessness, lethargy
+3328,Diabetes, fatigue, weight_loss, restlessness, lethargy
 3329,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 3330,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-3331,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+3331,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 3332,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 3333,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 3334,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -3366,12 +3366,12 @@
 3364,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 3365,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 3366,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-3367,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+3367,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 3368,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-3369,Diabetes , fatigue, weight_loss, restlessness, lethargy
+3369,Diabetes, fatigue, weight_loss, restlessness, lethargy
 3370,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 3371,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-3372,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+3372,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 3373,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 3374,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 3375,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -3407,12 +3407,12 @@
 3405,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 3406,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 3407,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-3408,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+3408,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 3409,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-3410,Diabetes , fatigue, weight_loss, restlessness, lethargy
+3410,Diabetes, fatigue, weight_loss, restlessness, lethargy
 3411,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 3412,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-3413,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+3413,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 3414,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 3415,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 3416,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -3448,12 +3448,12 @@
 3446,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 3447,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 3448,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-3449,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+3449,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 3450,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-3451,Diabetes , fatigue, weight_loss, restlessness, lethargy
+3451,Diabetes, fatigue, weight_loss, restlessness, lethargy
 3452,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 3453,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-3454,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+3454,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 3455,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 3456,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 3457,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -3489,12 +3489,12 @@
 3487,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 3488,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 3489,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-3490,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+3490,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 3491,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-3492,Diabetes , fatigue, weight_loss, restlessness, lethargy
+3492,Diabetes, fatigue, weight_loss, restlessness, lethargy
 3493,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 3494,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-3495,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+3495,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 3496,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 3497,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 3498,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -3530,12 +3530,12 @@
 3528,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 3529,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 3530,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-3531,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+3531,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 3532,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-3533,Diabetes , fatigue, weight_loss, restlessness, lethargy
+3533,Diabetes, fatigue, weight_loss, restlessness, lethargy
 3534,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 3535,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-3536,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+3536,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 3537,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 3538,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 3539,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -3571,12 +3571,12 @@
 3569,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 3570,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 3571,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-3572,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+3572,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 3573,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-3574,Diabetes , fatigue, weight_loss, restlessness, lethargy
+3574,Diabetes, fatigue, weight_loss, restlessness, lethargy
 3575,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 3576,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-3577,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+3577,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 3578,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 3579,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 3580,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -3612,12 +3612,12 @@
 3610,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 3611,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 3612,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-3613,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+3613,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 3614,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-3615,Diabetes , fatigue, weight_loss, restlessness, lethargy
+3615,Diabetes, fatigue, weight_loss, restlessness, lethargy
 3616,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 3617,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-3618,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+3618,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 3619,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 3620,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 3621,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -3653,12 +3653,12 @@
 3651,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 3652,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 3653,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-3654,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+3654,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 3655,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-3656,Diabetes , fatigue, weight_loss, restlessness, lethargy
+3656,Diabetes, fatigue, weight_loss, restlessness, lethargy
 3657,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 3658,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-3659,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+3659,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 3660,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 3661,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 3662,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -3694,12 +3694,12 @@
 3692,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 3693,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 3694,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-3695,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+3695,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 3696,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-3697,Diabetes , fatigue, weight_loss, restlessness, lethargy
+3697,Diabetes, fatigue, weight_loss, restlessness, lethargy
 3698,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 3699,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-3700,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+3700,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 3701,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 3702,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 3703,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -3735,12 +3735,12 @@
 3733,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 3734,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 3735,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-3736,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+3736,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 3737,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-3738,Diabetes , fatigue, weight_loss, restlessness, lethargy
+3738,Diabetes, fatigue, weight_loss, restlessness, lethargy
 3739,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 3740,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-3741,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+3741,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 3742,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 3743,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 3744,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -3776,12 +3776,12 @@
 3774,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 3775,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 3776,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-3777,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+3777,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 3778,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-3779,Diabetes , fatigue, weight_loss, restlessness, lethargy
+3779,Diabetes, fatigue, weight_loss, restlessness, lethargy
 3780,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 3781,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-3782,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+3782,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 3783,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 3784,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 3785,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -3817,12 +3817,12 @@
 3815,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 3816,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 3817,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-3818,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+3818,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 3819,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-3820,Diabetes , fatigue, weight_loss, restlessness, lethargy
+3820,Diabetes, fatigue, weight_loss, restlessness, lethargy
 3821,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 3822,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-3823,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+3823,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 3824,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 3825,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 3826,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -3858,12 +3858,12 @@
 3856,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 3857,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 3858,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-3859,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+3859,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 3860,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-3861,Diabetes , fatigue, weight_loss, restlessness, lethargy
+3861,Diabetes, fatigue, weight_loss, restlessness, lethargy
 3862,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 3863,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-3864,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+3864,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 3865,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 3866,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 3867,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -3899,12 +3899,12 @@
 3897,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 3898,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 3899,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-3900,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+3900,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 3901,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-3902,Diabetes , fatigue, weight_loss, restlessness, lethargy
+3902,Diabetes, fatigue, weight_loss, restlessness, lethargy
 3903,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 3904,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-3905,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+3905,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 3906,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 3907,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 3908,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -3940,12 +3940,12 @@
 3938,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 3939,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 3940,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-3941,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+3941,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 3942,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-3943,Diabetes , fatigue, weight_loss, restlessness, lethargy
+3943,Diabetes, fatigue, weight_loss, restlessness, lethargy
 3944,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 3945,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-3946,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+3946,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 3947,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 3948,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 3949,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -3981,12 +3981,12 @@
 3979,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 3980,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 3981,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-3982,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+3982,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 3983,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-3984,Diabetes , fatigue, weight_loss, restlessness, lethargy
+3984,Diabetes, fatigue, weight_loss, restlessness, lethargy
 3985,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 3986,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-3987,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+3987,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 3988,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 3989,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 3990,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -4022,12 +4022,12 @@
 4020,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 4021,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 4022,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-4023,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+4023,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 4024,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-4025,Diabetes , fatigue, weight_loss, restlessness, lethargy
+4025,Diabetes, fatigue, weight_loss, restlessness, lethargy
 4026,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 4027,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-4028,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+4028,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 4029,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 4030,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 4031,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -4063,12 +4063,12 @@
 4061,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 4062,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 4063,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-4064,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+4064,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 4065,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-4066,Diabetes , fatigue, weight_loss, restlessness, lethargy
+4066,Diabetes, fatigue, weight_loss, restlessness, lethargy
 4067,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 4068,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-4069,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+4069,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 4070,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 4071,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 4072,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -4104,12 +4104,12 @@
 4102,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 4103,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 4104,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-4105,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+4105,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 4106,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-4107,Diabetes , fatigue, weight_loss, restlessness, lethargy
+4107,Diabetes, fatigue, weight_loss, restlessness, lethargy
 4108,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 4109,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-4110,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+4110,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 4111,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 4112,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 4113,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -4145,12 +4145,12 @@
 4143,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 4144,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 4145,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-4146,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+4146,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 4147,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-4148,Diabetes , fatigue, weight_loss, restlessness, lethargy
+4148,Diabetes, fatigue, weight_loss, restlessness, lethargy
 4149,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 4150,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-4151,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+4151,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 4152,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 4153,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 4154,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -4186,12 +4186,12 @@
 4184,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 4185,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 4186,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-4187,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+4187,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 4188,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-4189,Diabetes , fatigue, weight_loss, restlessness, lethargy
+4189,Diabetes, fatigue, weight_loss, restlessness, lethargy
 4190,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 4191,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-4192,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+4192,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 4193,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 4194,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 4195,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -4227,12 +4227,12 @@
 4225,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 4226,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 4227,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-4228,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+4228,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 4229,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-4230,Diabetes , fatigue, weight_loss, restlessness, lethargy
+4230,Diabetes, fatigue, weight_loss, restlessness, lethargy
 4231,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 4232,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-4233,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+4233,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 4234,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 4235,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 4236,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -4268,12 +4268,12 @@
 4266,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 4267,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 4268,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-4269,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+4269,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 4270,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-4271,Diabetes , fatigue, weight_loss, restlessness, lethargy
+4271,Diabetes, fatigue, weight_loss, restlessness, lethargy
 4272,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 4273,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-4274,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+4274,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 4275,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 4276,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 4277,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -4309,12 +4309,12 @@
 4307,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 4308,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 4309,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-4310,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+4310,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 4311,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-4312,Diabetes , fatigue, weight_loss, restlessness, lethargy
+4312,Diabetes, fatigue, weight_loss, restlessness, lethargy
 4313,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 4314,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-4315,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+4315,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 4316,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 4317,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 4318,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -4350,12 +4350,12 @@
 4348,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 4349,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 4350,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-4351,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+4351,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 4352,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-4353,Diabetes , fatigue, weight_loss, restlessness, lethargy
+4353,Diabetes, fatigue, weight_loss, restlessness, lethargy
 4354,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 4355,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-4356,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+4356,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 4357,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 4358,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 4359,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -4391,12 +4391,12 @@
 4389,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 4390,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 4391,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-4392,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+4392,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 4393,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-4394,Diabetes , fatigue, weight_loss, restlessness, lethargy
+4394,Diabetes, fatigue, weight_loss, restlessness, lethargy
 4395,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 4396,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-4397,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+4397,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 4398,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 4399,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 4400,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -4432,12 +4432,12 @@
 4430,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 4431,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 4432,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-4433,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+4433,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 4434,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-4435,Diabetes , fatigue, weight_loss, restlessness, lethargy
+4435,Diabetes, fatigue, weight_loss, restlessness, lethargy
 4436,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 4437,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-4438,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+4438,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 4439,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 4440,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 4441,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -4473,12 +4473,12 @@
 4471,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 4472,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 4473,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-4474,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+4474,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 4475,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-4476,Diabetes , fatigue, weight_loss, restlessness, lethargy
+4476,Diabetes, fatigue, weight_loss, restlessness, lethargy
 4477,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 4478,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-4479,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+4479,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 4480,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 4481,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 4482,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -4514,12 +4514,12 @@
 4512,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 4513,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 4514,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-4515,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+4515,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 4516,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-4517,Diabetes , fatigue, weight_loss, restlessness, lethargy
+4517,Diabetes, fatigue, weight_loss, restlessness, lethargy
 4518,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 4519,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-4520,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+4520,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 4521,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 4522,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 4523,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -4555,12 +4555,12 @@
 4553,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 4554,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 4555,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-4556,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+4556,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 4557,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-4558,Diabetes , fatigue, weight_loss, restlessness, lethargy
+4558,Diabetes, fatigue, weight_loss, restlessness, lethargy
 4559,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 4560,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-4561,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+4561,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 4562,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 4563,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 4564,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -4596,12 +4596,12 @@
 4594,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 4595,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 4596,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-4597,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+4597,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 4598,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-4599,Diabetes , fatigue, weight_loss, restlessness, lethargy
+4599,Diabetes, fatigue, weight_loss, restlessness, lethargy
 4600,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 4601,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-4602,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+4602,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 4603,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 4604,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 4605,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -4637,12 +4637,12 @@
 4635,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 4636,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 4637,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-4638,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+4638,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 4639,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-4640,Diabetes , fatigue, weight_loss, restlessness, lethargy
+4640,Diabetes, fatigue, weight_loss, restlessness, lethargy
 4641,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 4642,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-4643,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+4643,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 4644,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 4645,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 4646,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -4678,12 +4678,12 @@
 4676,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 4677,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 4678,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-4679,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+4679,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 4680,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-4681,Diabetes , fatigue, weight_loss, restlessness, lethargy
+4681,Diabetes, fatigue, weight_loss, restlessness, lethargy
 4682,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 4683,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-4684,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+4684,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 4685,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 4686,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 4687,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -4719,12 +4719,12 @@
 4717,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 4718,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 4719,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-4720,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+4720,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 4721,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-4722,Diabetes , fatigue, weight_loss, restlessness, lethargy
+4722,Diabetes, fatigue, weight_loss, restlessness, lethargy
 4723,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 4724,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-4725,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+4725,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 4726,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 4727,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 4728,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -4760,12 +4760,12 @@
 4758,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 4759,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 4760,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-4761,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+4761,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 4762,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-4763,Diabetes , fatigue, weight_loss, restlessness, lethargy
+4763,Diabetes, fatigue, weight_loss, restlessness, lethargy
 4764,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 4765,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-4766,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+4766,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 4767,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 4768,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 4769,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -4801,12 +4801,12 @@
 4799,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 4800,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 4801,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-4802,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+4802,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 4803,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-4804,Diabetes , fatigue, weight_loss, restlessness, lethargy
+4804,Diabetes, fatigue, weight_loss, restlessness, lethargy
 4805,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 4806,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-4807,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+4807,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 4808,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 4809,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 4810,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -4842,12 +4842,12 @@
 4840,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 4841,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 4842,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-4843,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+4843,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 4844,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-4845,Diabetes , fatigue, weight_loss, restlessness, lethargy
+4845,Diabetes, fatigue, weight_loss, restlessness, lethargy
 4846,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 4847,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-4848,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+4848,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 4849,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 4850,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 4851,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
@@ -4883,12 +4883,12 @@
 4881,GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting
 4882,Chronic cholestasis,itching, vomiting, yellowish_skin, nausea
 4883,Drug Reaction,itching, skin_rash, stomach_pain, burning_micturition
-4884,Peptic ulcer diseae, vomiting, indigestion, loss_of_appetite, abdominal_pain
+4884,Peptic ulcer disease, vomiting, indigestion, loss_of_appetite, abdominal_pain
 4885,AIDS, muscle_wasting, patches_in_throat, high_fever, extra_marital_contacts
-4886,Diabetes , fatigue, weight_loss, restlessness, lethargy
+4886,Diabetes, fatigue, weight_loss, restlessness, lethargy
 4887,Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea
 4888,Bronchial Asthma, fatigue, cough, high_fever, breathlessness
-4889,Hypertension , headache, chest_pain, dizziness, loss_of_balance
+4889,Hypertension, headache, chest_pain, dizziness, loss_of_balance
 4890,Migraine, acidity, indigestion, headache, blurred_and_distorted_vision
 4891,Cervical spondylosis, back_pain, weakness_in_limbs, neck_pain, dizziness
 4892,Paralysis (brain hemorrhage), vomiting, headache, weakness_of_one_body_side, altered_sensorium
