@@ -1,16 +1,73 @@
-# Personalized-Medical-Recommendation-System-with-Machine-Learning
-Welcome to our cutting-edge Personalized Medical Recommendation System, a powerful platform designed to assist users in understanding and managing their health. Leveraging the capabilities of machine learning, our system analyzes user-input symptoms to predict potential diseases accurately. Here's what sets our system apart:
+# Smart Medication System
 
-User-Friendly Interface: Our intuitive interface allows users to input their symptoms effortlessly, creating a seamless user experience.
+**Smart Medication System**, a healthcare-oriented web application built with Flask and machine learning to provide personalized disease predictions and recommendations.
 
-Advanced Machine Learning Models: We've integrated state-of-the-art machine learning models that accurately predict diseases based on input symptoms, ensuring reliable and precise results.
+## Key Features
 
-Tailored Recommendations: Receive personalized recommendations for the top 5 medicines, prescription details, and even workout routines based on the predicted disease.
+### 1. Disease Prediction
+- Utilizes a trained Support Vector Classifier (SVC) model to predict diseases based on user-provided symptoms.
+- The model is trained on a comprehensive dataset to ensure high accuracy and reliability.
 
-Flask App Integration: The entire system is powered by a Flask web application, making it easily accessible to users. Experience the convenience of accessing healthcare recommendations from anywhere.
+### 2. Recommendations
+- **Description**: A detailed description of the predicted disease.
+- **Precautions**: Suggested precautions to manage or prevent the condition.
+- **Medications**: Recommended medications tailored to the diagnosed disease.
+- **Workout Routines**: Fitness routines to improve overall health.
+- **Diet Plans**: Custom dietary recommendations for better recovery and well-being.
 
-Privacy and Security: We prioritize user privacy and data security. Your health information is handled with the utmost confidentiality, adhering to the highest industry standards.
+### 3. Data Security
+- The system ensures user data privacy by handling sensitive health information with utmost confidentiality.
 
-Continuous Improvement: Our system is designed for continuous improvement. As we gather more data, the machine learning models evolve, providing increasingly accurate and relevant recommendations.
+## Technical Overview
 
-Take charge of your health with our Personalized Medical Recommendation System. Your well-being is our priority, and we're dedicated to providing you with the tools and insights you need for a healthier, happier life.
+### Backend
+- **Framework**: Flask
+- **Machine Learning**: Pre-trained SVC model loaded via `pickle`.
+- **Data Handling**: Processes CSV files, including:
+  - Symptoms Mapping
+  - Disease Descriptions
+  - Precautions
+  - Medications
+  - Diets
+  - Workout Routines
+
+### Frontend
+- Integrated with a user-friendly React.js interface (details in `client/README.md`).
+
+## Installation and Setup
+
+### Prerequisites
+- Python 3.8 or higher
+- Node.js (for frontend)
+- Required Python libraries listed in `requirements.txt`
+
+### Steps
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Rithvik2541/Smart-Medication.git
+   cd Smart-Medication
+   ```
+2. Install Python dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the Flask application:
+   ```bash
+   python main.py
+   ```
+4. Navigate to the React client directory (`client`) and start the frontend:
+   ```bash
+   cd client
+   npm install
+   npm start
+   ```
+
+## Future Enhancements
+- Incorporate more advanced models for disease prediction.
+- Add multilingual support.
+- Enable secure user authentication for personalized health tracking.
+
+
+---
+
+Take control of your health today with the **Smart Medication System**! 🚀
