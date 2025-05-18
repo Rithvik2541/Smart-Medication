@@ -114,18 +114,6 @@ export default function LandingPage({ onStart }) {
         </div>
       </section>
 
-      <section className="testimonials-section">
-        <h2>User <span className="highlight">Testimonials</span></h2>
-        <div className="testimonials-container">
-          {testimonials.map((testimonial, index) => (
-            <div className="testimonial-card" key={index}>
-              <p>"{testimonial.text}"</p>
-              <div className="testimonial-author">— {testimonial.name}</div>
-            </div>
-          ))}
-        </div>
-      </section>
-
       <section className="cta-section">
         <h2>Take Charge of Your <span className="highlight">Health</span></h2>
         <p>
